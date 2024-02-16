@@ -44,4 +44,4 @@ o	Provide a valid email format, click the button, and validate if the “Thank y
 •	Check the Extent Report for detailed test execution results.
 •	Log files provide additional insights and troubleshooting information.
 ## Contributions
-•	Tejas Angadi - 2303536
+•	S Prashanth --2303550 
